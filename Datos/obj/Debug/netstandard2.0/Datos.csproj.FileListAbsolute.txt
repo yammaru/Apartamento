@@ -1,0 +1,12 @@
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\bin\Debug\netstandard2.0\Datos.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\bin\Debug\netstandard2.0\Datos.pdb
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\bin\Debug\netstandard2.0\Entidades.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\bin\Debug\netstandard2.0\Entidades.pdb
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Datos\obj\Debug\netstandard2.0\Datos.pdb

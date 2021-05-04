@@ -1,0 +1,14 @@
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Logica.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Logica.pdb
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Datos.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Entidades.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Entidades.pdb
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\bin\Debug\netstandard2.1\Datos.pdb
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Logica\obj\Debug\netstandard2.1\Logica.pdb

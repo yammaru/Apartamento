@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Imj8d2BoijxEb8F7s9S/Fb+qk2pYKRJ87ZO04pAtFo5aCxTlTncG3qdWdGds5DLBtW+GeLaBnba78TmklBOCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Documents\\Visual Code\\dotnat\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

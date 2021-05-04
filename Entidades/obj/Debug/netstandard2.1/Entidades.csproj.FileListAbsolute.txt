@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Code\dotnat\Entidades\obj\Debug\netstandard2.1\Entidades.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Code\dotnat\Entidades\obj\Debug\netstandard2.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Visual Code\dotnat\Entidades\obj\Debug\netstandard2.1\Entidades.AssemblyInfo.cs
+C:\Users\pc\Documents\Visual Code\dotnat\Entidades\obj\Debug\netstandard2.1\Entidades.csproj.CoreCompileInputs.cache
+c:\Users\pc\Documents\Visual Code\dotnat\Entidades\bin\Debug\netstandard2.1\Entidades.deps.json
+c:\Users\pc\Documents\Visual Code\dotnat\Entidades\bin\Debug\netstandard2.1\Entidades.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Entidades\bin\Debug\netstandard2.1\Entidades.pdb
+c:\Users\pc\Documents\Visual Code\dotnat\Entidades\obj\Debug\netstandard2.1\Entidades.dll
+c:\Users\pc\Documents\Visual Code\dotnat\Entidades\obj\Debug\netstandard2.1\Entidades.pdb
